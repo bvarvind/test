@@ -1,0 +1,26 @@
+[
+    {
+        "Category": "myExample",
+        "Environment": {
+            "Virtualenv": {
+                "RequiredPackages": {
+                    "testautomationextras": ""
+                }
+            }
+        },
+        "ID": "myFirstTest",
+        "Type": "myFirstTest.py"
+    },
+    {
+        "Category": "myExample",
+        "Environment": {
+            "Virtualenv": {
+                "RequiredPackages": {
+                    "testautomationextras": ""
+                }
+            }
+        },
+        "ID": "mySecondTest",
+        "Type": "mySecondTest.py"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "Category": "myExample",
+        "ID": "myFirstSuite",
+        "Type": "Suite",
+        "SuiteActions": [
+            {
+                "Category": "myExample",
+                "ID": "myFirstTest",
+                "Type": "Reference"
+            },
+            {
+                "Category": "myExample",
+                "ID": "mySecondTest",
+                "Type": "Reference"
+            }
+        ]
+    }
+]
